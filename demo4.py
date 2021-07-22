@@ -1,6 +1,6 @@
 from audioop import avg
 import conf as conf
-import cv2
+import cv
 import imutils as imutils
 import numpy as np
 from cv2 import getStructuringElement, morphologyEx, createBackgroundSubtractorKNN
